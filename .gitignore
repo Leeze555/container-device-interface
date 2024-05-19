@@ -1,3 +1,4 @@
 *.swp
 schema/validate
 /bin
+.vscode/settings.json
